@@ -1,7 +1,7 @@
-# Vanadium
-A traditional proxy site for use in combating web filters.
+# AzureVan
+A traditional proxy site for use in combating web filters. 
+Made by Titanium Network but forked by AzureProjects
 
-<img src="/vanadium.png">
 
 ## Features
 
@@ -16,12 +16,12 @@ A traditional proxy site for use in combating web filters.
 ## Setup
 
 ### Automatic Deployment:
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/titaniumnetwork-dev/Vanadium) [![Deploy](https://raw.githubusercontent.com/titaniumnetwork-dev/Vanadium/main/replit.svg)](https://repl.it/github/titaniumnetwork-dev/Vanadium)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/EmpThatYouHate/AzureVan) [![Deploy](https://raw.githubusercontent.com/EmpThatYouHate/AzureVan/main/replit.svg)](https://repl.it/github/EmpThatYouHate/AzureVan)
 
 ### Manual Deployment (for use on your own Linux server):
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/Vanadium
+git clone https://github.com/EmpThatYouHate/AzureVan
 cd Vanadium
 npm install
 npm start
